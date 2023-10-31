@@ -1,13 +1,9 @@
 package Linkedin_clone_alt.demo.service;
 
 import Linkedin_clone_alt.demo.Entity.Experience;
-import Linkedin_clone_alt.demo.dto.EducationRequest;
 import Linkedin_clone_alt.demo.dto.ExperienceRequest;
-import Linkedin_clone_alt.demo.dto.SkillRequest;
-import Linkedin_clone_alt.demo.Entity.Skill;
 import Linkedin_clone_alt.demo.Entity.UserProfile;
 import Linkedin_clone_alt.demo.repositary.ExperienceRepository;
-import Linkedin_clone_alt.demo.repositary.SkillRepository;
 import Linkedin_clone_alt.demo.repositary.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
